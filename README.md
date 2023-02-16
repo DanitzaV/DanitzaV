@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on ITGlobers as Front End Developer<br>💬 Ask me about: Do you want to play overwatch?<br>⚡ Fun fact: moira de overwatch 2 es mi main
+🔭 I’m currently working on ITGlobers as Front End Developer<br>💬 Ask me about: Do you want to play overwatch?<br>⚡ Fun fact: moira from overwatch is my main
 
 
 ## 🌐 Socials:
